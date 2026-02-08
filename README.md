@@ -3,9 +3,13 @@ A modern, responsive React application that allows users to view, add, and searc
 
 # Tools
 React
+
 CSS
+
 JavaScript
+
 Vite
+
 HTML
 
 # Structure
@@ -60,7 +64,9 @@ Displays individual project details
 5. Run any other installation to install the necessary dependancies
 
 -npm install
+
 -npm run dev
+
 -http://localhost:5173
 
   # Contributing
@@ -82,4 +88,5 @@ Please fork the repo and create a pull request.
 # Contact
 
 Limotiz  david.musembi2@student.moringaschool.com 
+
 Project Link https://github.com/Limotiz/Single-Page-Application-SPA-with-React--Portfolio-Platform
