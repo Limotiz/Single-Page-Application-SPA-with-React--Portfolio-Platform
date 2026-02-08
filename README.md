@@ -2,27 +2,16 @@
 A modern, responsive React application that allows users to view, add, and search projects dynamically.
 
 # Tools
-React
 
-CSS
+1. React
 
-JavaScript
+2. CSS
 
-Vite
+3. JavaScript
 
-HTML
+4. Vite
 
-# Structure
-
-src/
- ├── assets/components/
- │   ├── AddProject.jsx        # Form for adding projects
- │   ├── SearchBar.jsx         # Search input component
- │   ├── ProjectList.jsx       # Renders list of projects
- │   └── ProjectItem.jsx       # Displays a single project
- ├── App.jsx                   # Main application component
- ├── main.jsx                  # Application entry point
- └── App.css / index.css       # Styling
+5. HTML
 
 # How the app works
 
@@ -57,17 +46,16 @@ Displays individual project details
 
 2. Fork the repository to your GitHub account.
 
+
 3. Clone the forked repository to your local machine.
 
 4. Navigate to the project directory
 
 5. Run any other installation to install the necessary dependancies
 
--npm install
-
--npm run dev
-
--http://localhost:5173
+- npm install
+- npm run dev 
+- http://localhost:5173
 
   # Contributing
 
@@ -87,6 +75,6 @@ Please fork the repo and create a pull request.
 
 # Contact
 
-Limotiz  david.musembi2@student.moringaschool.com 
+- Limotiz  david.musembi2@student.moringaschool.com 
 
-Project Link https://github.com/Limotiz/Single-Page-Application-SPA-with-React--Portfolio-Platform
+- Project Link https://github.com/LimotizSingle-Page-Application-SPA-with-React--Portfolio-Platform
