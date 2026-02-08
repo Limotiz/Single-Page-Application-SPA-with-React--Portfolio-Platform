@@ -46,7 +46,6 @@ Displays individual project details
 
 2. Fork the repository to your GitHub account.
 
-
 3. Clone the forked repository to your local machine.
 
 
