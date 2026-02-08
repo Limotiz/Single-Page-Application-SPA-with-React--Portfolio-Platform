@@ -49,7 +49,9 @@ Displays individual project details
 
 3. Clone the forked repository to your local machine.
 
+
 4. Navigate to the project directory
+
 
 5. Run any other installation to install the necessary dependancies
 
