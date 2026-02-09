@@ -1,4 +1,4 @@
-export default function ProjectItem({ project }) {
+function ProjectItem({ project }) {
   return (
     <div className="project">
       <div className="project-img">✕</div>
@@ -9,3 +9,4 @@ export default function ProjectItem({ project }) {
     </div>
   );
 }
+export default ProjectItem
